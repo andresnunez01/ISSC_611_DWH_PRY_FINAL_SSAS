@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ISSC_611_DWH_PRY_FINAL_SSAS", "ISSC_611_DWH_PRY_FINAL_SSAS\ISSC_611_DWH_PRY_FINAL_SSAS.dwproj", "{6B38649C-0922-4EC0-8D87-F49A7764CDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B38649C-0922-4EC0-8D87-F49A7764CDD9}.Development|Default.ActiveCfg = Development
+		{6B38649C-0922-4EC0-8D87-F49A7764CDD9}.Development|Default.Build.0 = Development
+		{6B38649C-0922-4EC0-8D87-F49A7764CDD9}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35E4017C-FCA4-4C2E-B149-EDBE91A80373}
+	EndGlobalSection
+EndGlobal
